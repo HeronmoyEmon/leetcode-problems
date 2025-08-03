@@ -18,4 +18,4 @@ Feel free to explore, fork, or contribute!
 
 # **Index**
 
-1. [Problem #69 Sqrt(x)](https://leetcode.com/problems/sqrtx/) – [Solution](./problems/sqrt.go)
+1. [Problem #69 Sqrt(x)](https://leetcode.com/problems/sqrtx/) – [Solution - Go](./problems/sqrt.go) - [Solution - Java](./problems/sqrt.java)
